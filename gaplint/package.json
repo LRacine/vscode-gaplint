@@ -1,0 +1,25 @@
+{
+    "name": "gaplint",
+    "displayName": "gaplint",
+    "description": "lints gap code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "gap",
+            "aliases": ["gap", "gap"],
+            "extensions": [".g",".gi",".gd"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "gap",
+            "scopeName": "",
+            "path": "./syntaxes/gap.tmLanguage.json"
+        }]
+    }
+}
