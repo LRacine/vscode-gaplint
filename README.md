@@ -1,31 +1,11 @@
-# gap vscode extension
-![alt text][logo]
-[logo]: https://github.com/LRacine/vscode-gaplint/gap_logo.png "GAP logo"
+# Gap Extension for Visual Studio Code
 **IN DEVELOPMENT**
+
+<img src="https://github.com/LRacine/vscode-gaplint/blob/master/gap_logo.png?raw=true" width="60">
+
 This extension helps users to write GAP code. It provides linting and autocomplete functionality.
-
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Requirements
 
 GAP can be downloaded at:
 https://www.gap-system.org/Download/
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
