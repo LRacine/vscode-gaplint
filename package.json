@@ -13,7 +13,7 @@
         "languages": [{
             "id": "gap",
             "aliases": ["gap", "gap"],
-            "extensions": [".g",".gi",".gd"],
+            "extensions": [".g",".gi",".gd", ".gap", ".g.txt", "tst", "xml"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
